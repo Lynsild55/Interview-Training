@@ -1,5 +1,5 @@
 package main.task_layout;
 
-public class Solution {
+public class Result {
     
 }

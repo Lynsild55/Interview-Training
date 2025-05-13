@@ -1,4 +1,4 @@
-package main.task_1_Plus_Minus;
+package main.task_1;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package main.task_3_Time_Conversion;
+package main.task_3;
 
 import java.io.*;
 import java.math.*;

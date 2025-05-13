@@ -1,4 +1,4 @@
-package main.task_2_Mini_Max_Sum;
+package main.task_2;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package main.task_4_Lonely_Integer;
+package main.task_4;
 
 class Result {
 
